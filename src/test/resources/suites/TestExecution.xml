@@ -1,0 +1,15 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+
+<suite name="Test Suite 2" verbose="2">
+    <listeners>
+        <listener class-name="Listeners.TestListener"></listener>
+    </listeners>
+    <!--    Execute with chrome-->
+    <test name="Login and ">
+        <parameter name="browser" value="chrome"></parameter>
+        <classes>
+            <class name="Login.Testcases.T1_NormalLogin"></class>
+            <class name="Projects.Testcases.EventsOverview.T1_EventsOverviewPage"></class>
+        </classes>
+    </test>
+</suite>
