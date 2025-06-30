@@ -4,6 +4,7 @@ import ai.planz.dev.Logs.WriteLogs;
 import ai.planz.dev.helpers.PropertiesHelper;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.chrome.ChromeOptions;
 import org.openqa.selenium.edge.EdgeDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 import org.openqa.selenium.Point;
@@ -38,6 +39,9 @@ public class TestSetup {
         WebDriver driver;
         PropertiesHelper.loadAllFiles();
         String browserProperty = PropertiesHelper.getValue("BROWSER");
+        String headlessProperty = PropertiesHelper.getValue("HEADLESS"); // "true" or "false"
+        boolean isHeadless = Boolean.parseBoolean(headlessProperty);
+
         if (browserProperty == null || browserProperty.isEmpty() || browserProperty.isBlank()) {
             browserName = browserName;
         } else {
@@ -45,7 +49,13 @@ public class TestSetup {
         }
         switch (browserName.trim().toLowerCase()) {
             case "chrome":
-                driver = initializeDriver(new ChromeDriver());
+                ChromeOptions options = new ChromeOptions();
+                if (isHeadless) {
+                    options.addArguments("--headless=new"); // or "--headless=chrome" for older versions
+                    options.addArguments("--window-size=1920,1080"); // optional but recommended
+                }
+                driver = initializeDriver(new ChromeDriver(options));
+
                 break;
             case "firefox":
                 driver = initializeDriver(new FirefoxDriver());

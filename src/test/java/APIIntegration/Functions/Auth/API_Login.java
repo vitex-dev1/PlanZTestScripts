@@ -88,7 +88,7 @@ public class API_Login {
         }
     }
 
-    //Assert User is Projects
+    //Assert User is OwnerRole
     public void assertUserIsAdmin(Response response) {
         // Extract the platform value from the response
         Integer platform = response.jsonPath().getInt("data.user.platform");

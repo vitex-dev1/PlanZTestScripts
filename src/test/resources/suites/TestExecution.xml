@@ -5,11 +5,10 @@
         <listener class-name="Listeners.TestListener"></listener>
     </listeners>
     <!--    Execute with chrome-->
-    <test name="Login and ">
+    <test name="BudgetAndExpense">
         <parameter name="browser" value="chrome"></parameter>
         <classes>
-            <class name="Login.Testcases.T1_NormalLogin"></class>
-            <class name="Projects.Testcases.EventsOverview.T1_EventsOverviewPage"></class>
+            <class name="OwnerRole.Testcases.Events.Tasks.TaskList.TaskDetail.T1_BudgetAndExpense"></class>
         </classes>
     </test>
 </suite>

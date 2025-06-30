@@ -36,6 +36,17 @@ public class Actions {
         waitForPageLoaded();
     }
 
+    // clickElement that accepts WebElement
+    public static void clickElement(WebElement element) {
+        waitForPageLoaded();
+        scrollToElement(element);
+        waitForElementVisible(element);
+        waitForElementToBeClickable(element);
+        element.click();
+        WriteLogs.info("Click on element " + element);
+        waitForPageLoaded();
+    }
+
     public static void setText(By by, String text) {
         waitForPageLoaded();
         WebDriverWait wait = new WebDriverWait(BrowserManager.getDriver(), Duration.ofSeconds(5));
@@ -77,6 +88,20 @@ public class Actions {
         }
     }
 
+    //waitForElementVisible that accepts WebElement
+    public static void waitForElementVisible(WebElement element) {
+        waitForPageLoaded();
+        try {
+            WebDriverWait wait = new WebDriverWait(BrowserManager.getDriver(), Duration.ofSeconds(TIMEOUT), Duration.ofMillis(500));
+            wait.until(ExpectedConditions.visibilityOf(element));
+
+        } catch (Throwable error) {
+            WriteLogs.error("Timeout waiting for the element to be visible. " + element.toString());
+            // Mark the current testcase as failed
+            Assert.fail("Timeout waiting for the element to be visible. " + element.toString());
+        }
+    }
+
     public static void waitForElementVisible(By by, int second) {
         waitForPageLoaded();
         try {
@@ -112,6 +137,20 @@ public class Actions {
         } catch (Throwable error) {
             WriteLogs.error("Timeout waiting for the element to be ready to click. " + by.toString());
             Assert.fail("Timeout waiting for the element to be ready to click. " + by.toString());
+        }
+    }
+
+    //waitForElementToBeClickable that accepts WebElement
+    public static void waitForElementToBeClickable(WebElement element) {
+        waitForPageLoaded();
+        try {
+            WebDriverWait wait = new WebDriverWait(BrowserManager.getDriver(), Duration.ofSeconds(5));
+
+
+            wait.until(ExpectedConditions.elementToBeClickable(element));
+        } catch (Throwable error) {
+            WriteLogs.error("Timeout waiting for the element to be ready to click. " + element.toString());
+            Assert.fail("Timeout waiting for the element to be ready to click. " + element.toString());
         }
     }
 
@@ -317,24 +356,10 @@ public class Actions {
     }
 
     //Equality and Containment Functions
-    public static boolean verifyEquals(Object actual, Object expected) {
-        waitForPageLoaded();
-        WriteLogs.info("Verify equals: " + actual + "- and - " + expected);
-        boolean verification = actual.equals(expected);
-        return verification;
-    }
-
     public static void assertEquals(Object actual, Object expected, String message) {
         waitForPageLoaded();
         WriteLogs.info("Assert equals: " + actual + "- and - " + expected);
         Assert.assertEquals(actual, expected, message);
-    }
-
-    public static boolean verifyContains(String actual, String expected) {
-        waitForPageLoaded();
-        WriteLogs.info("Verify contains: Does '" + actual + "' contain '" + expected + "'?");
-        boolean check = actual.contains(expected);
-        return check;
     }
 
     public static void assertContains(String actual, String expected, String message) {
@@ -519,4 +544,5 @@ public class Actions {
         js.executeScript("document.body.style.zoom = '1.0'");
         WriteLogs.info("Reset zoom to 100%");
     }
+
 }
