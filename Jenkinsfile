@@ -2,12 +2,12 @@ pipeline {
     agent any
 
     tools {
-        maven 'Maven 4.0.0'   // Make sure this matches the Maven version configured in Jenkins
-        jdk 'Java 17'         // Adjust this to your installed JDK version in Jenkins
+        maven 'Maven 4.0.0'   // Must match a configured tool in Jenkins
+        jdk 'Java 17'         // Adjust based on your Jenkins JDK setup
     }
 
     environment {
-        HEADLESS = 'true'     // You can toggle this in your code
+        HEADLESS = 'true'     // Custom variable for your test logic
     }
 
     stages {
@@ -29,11 +29,12 @@ pipeline {
             }
         }
 
-       stage('Allure Report') {
-           steps {
-               allure includeProperties: false, jdk: '', results: [[path: 'target/allure-results']]
-           }
-       }
+        stage('Allure Report') {
+            steps {
+                allure includeProperties: false, jdk: '', results: [[path: 'target/allure-results']]
+            }
+        }
+    }
 
     post {
         always {
