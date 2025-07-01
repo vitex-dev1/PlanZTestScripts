@@ -1,0 +1,868 @@
+[INFO] 28-04-2025 16:16:54 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 28-04-2025 16:17:19 [main] WriteLogs - Launching browser...
+[INFO] 28-04-2025 16:17:21 [main] WriteLogs - Assert contains: Does 'http://dev.planz.ai:8010/plans/sign_in' contain '/plans/sign_in'?
+[INFO] 28-04-2025 16:17:21 [main] WriteLogs - Test passed: checkCorrectPage
+[INFO] 28-04-2025 16:17:23 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 28-04-2025 16:17:24 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 28-04-2025 16:17:24 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 28-04-2025 16:17:24 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 28-04-2025 16:17:24 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 28-04-2025 16:17:26 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 28-04-2025 16:17:26 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 15-05-2025 17:40:47 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 15-05-2025 17:40:51 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 17:40:53 [main] WriteLogs - Assert contains: Does 'http://dev.planz.ai:8010/plans/sign_in' contain '/plans/sign_in'?
+[INFO] 15-05-2025 17:40:53 [main] WriteLogs - Test passed: checkCorrectPage
+[INFO] 15-05-2025 17:40:54 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 15-05-2025 17:40:55 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 15-05-2025 17:40:56 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 15-05-2025 17:40:56 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 15-05-2025 17:40:57 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 15-05-2025 17:40:58 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 15-05-2025 17:40:58 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 15-05-2025 17:40:59 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 17:41:01 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[ERROR] 15-05-2025 17:41:01 [main] WriteLogs - Test failed: loginSuccess
+[INFO] 15-05-2025 17:41:01 [main] WriteLogs - Screenshot taken: loginSuccess
+[ERROR] 15-05-2025 17:41:01 [main] WriteLogs - Test failed: selectVietnamese
+[INFO] 15-05-2025 17:41:01 [main] WriteLogs - Screenshot taken: selectVietnamese
+[INFO] 15-05-2025 17:42:42 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 15-05-2025 17:42:44 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 17:42:46 [main] WriteLogs - Assert contains: Does 'http://dev.planz.ai:8010/plans/sign_in' contain '/plans/sign_in'?
+[INFO] 15-05-2025 17:42:46 [main] WriteLogs - Test passed: checkCorrectPage
+[INFO] 15-05-2025 17:42:48 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 15-05-2025 17:42:49 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 15-05-2025 17:42:49 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 15-05-2025 17:42:49 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 15-05-2025 17:42:50 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 15-05-2025 17:42:51 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 15-05-2025 17:42:51 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 15-05-2025 17:42:52 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 17:42:54 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[ERROR] 15-05-2025 17:42:54 [main] WriteLogs - Test failed: loginSuccess
+[INFO] 15-05-2025 17:42:54 [main] WriteLogs - Screenshot taken: loginSuccess
+[ERROR] 15-05-2025 17:42:54 [main] WriteLogs - Test failed: selectVietnamese
+[INFO] 15-05-2025 17:42:54 [main] WriteLogs - Screenshot taken: selectVietnamese
+[INFO] 15-05-2025 17:45:25 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 15-05-2025 17:45:27 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 17:45:28 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[ERROR] 15-05-2025 17:45:28 [main] WriteLogs - Test failed: loginSuccess
+[INFO] 15-05-2025 17:45:29 [main] WriteLogs - Screenshot taken: loginSuccess
+[ERROR] 15-05-2025 17:45:29 [main] WriteLogs - Test failed: selectVietnamese
+[INFO] 15-05-2025 17:45:29 [main] WriteLogs - Screenshot taken: selectVietnamese
+[INFO] 15-05-2025 17:46:11 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 15-05-2025 17:46:13 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 17:46:15 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[ERROR] 15-05-2025 17:46:15 [main] WriteLogs - Test failed: loginSuccess
+[INFO] 15-05-2025 17:46:16 [main] WriteLogs - Screenshot taken: loginSuccess
+[ERROR] 15-05-2025 17:46:16 [main] WriteLogs - Test failed: selectVietnamese
+[INFO] 15-05-2025 17:46:16 [main] WriteLogs - Screenshot taken: selectVietnamese
+[INFO] 15-05-2025 17:49:44 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 15-05-2025 17:49:46 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 17:49:48 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[ERROR] 15-05-2025 17:49:48 [main] WriteLogs - Test failed: loginSuccess
+[INFO] 15-05-2025 17:49:48 [main] WriteLogs - Screenshot taken: loginSuccess
+[ERROR] 15-05-2025 17:49:49 [main] WriteLogs - Test failed: selectVietnamese
+[INFO] 15-05-2025 17:49:49 [main] WriteLogs - Screenshot taken: selectVietnamese
+[INFO] 15-05-2025 17:56:56 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 15-05-2025 17:56:58 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 17:57:01 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[ERROR] 15-05-2025 17:57:01 [main] WriteLogs - Test failed: loginSuccess
+[INFO] 15-05-2025 17:57:01 [main] WriteLogs - Screenshot taken: loginSuccess
+[ERROR] 15-05-2025 17:57:02 [main] WriteLogs - Test failed: selectVietnamese
+[INFO] 15-05-2025 17:57:02 [main] WriteLogs - Screenshot taken: selectVietnamese
+[INFO] 15-05-2025 17:59:19 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 15-05-2025 17:59:21 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 17:59:24 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[ERROR] 15-05-2025 17:59:24 [main] WriteLogs - Test failed: loginSuccess
+[INFO] 15-05-2025 17:59:24 [main] WriteLogs - Screenshot taken: loginSuccess
+[ERROR] 15-05-2025 17:59:24 [main] WriteLogs - Test failed: selectVietnamese
+[INFO] 15-05-2025 17:59:24 [main] WriteLogs - Screenshot taken: selectVietnamese
+[INFO] 15-05-2025 18:03:15 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 15-05-2025 18:03:17 [main] WriteLogs - Launching browser...
+[INFO] 15-05-2025 18:03:19 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 15-05-2025 18:03:21 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 15-05-2025 18:03:21 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 15-05-2025 18:03:21 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 15-05-2025 18:03:21 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 15-05-2025 18:03:23 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 15-05-2025 18:03:23 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 15-05-2025 18:03:23 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 15-05-2025 18:03:24 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 15-05-2025 18:03:25 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 12:12:28 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 12:12:31 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 12:12:33 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 12:12:35 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 12:12:36 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 12:12:36 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 12:12:36 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 12:12:38 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 12:12:38 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 12:12:38 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 12:12:38 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 12:12:40 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 12:12:40 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 12:12:41 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 12:12:41 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 12:12:41 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 12:12:41 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 12:12:41 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 12:15:34 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 12:15:36 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 12:15:38 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 12:15:39 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 12:15:40 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 12:15:40 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 12:15:40 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 12:15:42 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 12:15:42 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 12:15:42 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 12:15:42 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 12:15:44 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 12:15:44 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 12:15:45 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 12:15:45 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 12:15:45 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 12:15:45 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 12:15:45 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 15:37:14 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 15:37:17 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 15:37:20 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:37:21 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:37:21 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 15:37:21 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 15:37:21 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 15:37:23 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 15:37:23 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 15:37:24 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 15:37:24 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 15:37:25 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 15:37:26 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 15:37:26 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 15:37:26 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 15:37:26 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 15:37:37 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 15:37:37 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 15:42:27 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 15:42:29 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 15:42:32 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:42:33 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:42:33 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 15:42:33 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 15:42:33 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 15:42:35 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 15:42:35 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 15:42:35 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 15:42:36 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 15:42:37 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 15:42:37 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 15:42:38 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 15:42:38 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 15:42:38 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 15:42:38 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 15:42:38 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 15:43:38 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 15:43:39 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 15:43:42 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:43:43 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:43:43 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 15:43:43 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 15:43:43 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 15:43:45 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 15:43:45 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 15:43:45 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 15:43:45 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 15:43:47 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 15:43:47 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 15:43:48 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 15:43:48 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 15:43:48 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 15:43:58 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 15:43:59 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 15:56:13 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 15:56:15 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 15:56:17 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:56:18 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:56:18 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 15:56:19 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 15:56:19 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 15:56:21 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 15:56:21 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 15:56:21 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 15:56:21 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 15:56:23 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 15:56:23 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 15:56:24 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 15:56:24 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 15:56:24 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 15:56:34 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 15:56:35 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 15:56:59 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 15:57:01 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 15:57:03 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:57:04 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 15:57:04 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 15:57:04 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 15:57:06 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 15:57:06 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 15:57:06 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 15:57:07 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 15:57:07 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 15:57:08 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 15:57:09 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 15:57:09 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 15:57:09 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 15:57:09 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 15:57:20 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 15:57:20 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 16:03:26 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 16:03:27 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 16:03:30 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:03:31 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:03:31 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 16:03:31 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 16:03:32 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 16:03:33 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 16:03:33 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 16:03:33 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 16:03:33 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 16:03:35 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 16:03:35 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 16:03:36 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 16:03:36 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 16:03:36 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 16:03:36 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 16:03:36 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 16:05:29 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 16:05:30 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 16:05:33 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:05:34 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:05:34 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 16:05:34 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 16:05:36 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 16:05:36 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 16:05:36 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 16:05:36 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 16:05:37 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 16:05:39 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 16:05:39 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 16:05:39 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 16:05:39 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 16:05:40 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 16:05:40 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 16:05:40 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 16:07:07 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 16:07:09 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 16:07:11 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:07:12 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:07:12 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 16:07:12 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 16:07:12 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 16:07:14 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 16:07:14 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 16:07:15 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 16:07:15 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 16:07:16 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 16:07:17 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 16:07:17 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 16:07:17 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 16:07:17 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 16:07:17 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 16:07:18 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 16:09:20 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 16:09:21 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 16:09:24 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:09:25 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:09:25 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 16:09:25 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 16:09:26 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 16:09:28 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 16:09:28 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 16:09:28 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 16:09:28 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 16:09:30 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 16:09:30 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 16:09:30 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 16:09:30 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 16:09:31 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 16:09:31 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 16:09:31 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 16:18:59 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 16:19:00 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 16:19:03 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:19:04 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:19:04 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 16:19:04 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 16:19:06 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 16:19:06 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 16:19:06 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 16:19:07 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 16:19:07 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 16:19:09 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 16:19:09 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 16:19:09 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 16:19:09 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 16:19:10 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[ERROR] 16-05-2025 16:19:10 [main] WriteLogs - Test failed: createEventUsingSuggestions
+[INFO] 16-05-2025 16:19:10 [main] WriteLogs - Screenshot taken: createEventUsingSuggestions
+[INFO] 16-05-2025 16:22:24 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 16:22:26 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 16:22:28 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:22:30 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:22:30 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 16:22:30 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 16:22:30 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 16:22:32 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 16:22:32 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 16:22:33 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 16:22:33 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 16:22:35 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 16:22:35 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 16:22:36 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 16:22:36 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 16:22:36 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 16-05-2025 16:22:36 [main] WriteLogs - Test passed: createEventUsingSuggestions
+[INFO] 16-05-2025 16:38:35 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 16:38:37 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 16:38:40 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:38:41 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:38:41 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 16:38:41 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 16:38:41 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 16:38:43 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 16:38:43 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 16:38:43 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 16:38:43 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 16:38:45 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 16:38:45 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 16:38:46 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 16:38:46 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 16:38:46 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 16-05-2025 16:38:46 [main] WriteLogs - Test passed: createEventUsingSuggestions
+[INFO] 16-05-2025 16:41:44 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 16:41:46 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 16:41:48 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:41:49 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:41:49 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 16:41:50 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 16:41:51 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 16:41:52 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 16:41:52 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 16:41:52 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 16:41:52 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 16:41:54 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 16:41:55 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 16:41:55 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 16:41:55 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 16:41:55 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 16-05-2025 16:41:55 [main] WriteLogs - Test passed: createEventUsingSuggestions
+[INFO] 16-05-2025 16:43:34 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 16-05-2025 16:43:35 [main] WriteLogs - Launching browser...
+[INFO] 16-05-2025 16:43:37 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:43:38 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 16-05-2025 16:43:39 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 16-05-2025 16:43:39 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 16-05-2025 16:43:40 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 16-05-2025 16:43:41 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 16-05-2025 16:43:41 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 16-05-2025 16:43:41 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 16-05-2025 16:43:41 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 16-05-2025 16:43:43 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 16-05-2025 16:43:43 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 16-05-2025 16:43:44 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 16-05-2025 16:43:44 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 16-05-2025 16:43:44 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 16-05-2025 16:43:44 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 16-05-2025 16:43:44 [main] WriteLogs - Test passed: createEventUsingSuggestions
+[INFO] 27-05-2025 09:42:22 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 09:42:26 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 09:42:29 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 09:42:29 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 09:42:30 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 09:42:30 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 09:42:31 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 09:42:32 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 09:42:32 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 09:42:32 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 09:42:32 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 09:42:34 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 09:42:34 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 09:42:35 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 09:42:35 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 09:42:35 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 09:42:35 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 09:42:35 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 09:42:49 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 09:42:49 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 09:42:49 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[ERROR] 27-05-2025 09:42:49 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 09:42:49 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 10:11:35 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 10:11:37 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 10:11:39 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 10:11:40 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 10:11:40 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 10:11:41 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 10:11:41 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 10:11:43 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 10:11:43 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 10:11:43 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 10:11:43 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 10:11:45 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 10:11:45 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 10:11:46 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 10:11:46 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 10:11:46 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 10:11:46 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 10:11:46 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 10:11:56 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 10:11:56 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho buổi đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 10:11:56 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho buổi đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 10:11:56 [main] WriteLogs - ✅ The latest message contains 'đám cưới' as expected.
+[INFO] 27-05-2025 10:11:56 [main] WriteLogs - Test passed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 16:10:59 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 16:11:02 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 16:11:05 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:11:06 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:11:06 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 16:11:06 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 16:11:06 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 16:11:08 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 16:11:08 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 16:11:08 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 16:11:08 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 16:11:10 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 16:11:10 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 16:11:11 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 16:11:11 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 16:11:11 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 16:11:11 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 16:11:11 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - ✅ The latest message contains 'đám cưới' as expected.
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - Click on element By.xpath: (//div[@class='box-question'])[2]//label[contains(@class, 'result-item')][1]
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - Click on element By.xpath: (//div[@class='box-question'])[3]//label[contains(@class, 'result-item')][1]
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - Click on element By.xpath: (//div[@class='box-question'])[4]//label[contains(@class, 'result-item')][1]
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - Click on element By.xpath: (//div[@class='box-question'])[5]//label[contains(@class, 'result-item')][1]
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - Click on element By.xpath: (//div[@class='box-question'])[6]//label[contains(@class, 'result-item')][1]
+[INFO] 27-05-2025 16:11:24 [main] WriteLogs - Click on element By.xpath: (//div[@class='box-question'])[7]//label[contains(@class, 'result-item')][1]
+[INFO] 27-05-2025 16:11:25 [main] WriteLogs - Click on element By.xpath: (//div[@class='box-question'])[8]//label[contains(@class, 'result-item')][1]
+[INFO] 27-05-2025 16:11:25 [main] WriteLogs - Click on element By.xpath: //div[@class='question-submit']
+[INFO] 27-05-2025 16:11:25 [main] WriteLogs - Clicked on Estimate button.
+[INFO] 27-05-2025 16:11:25 [main] WriteLogs - Task estimation screen is displayed with all tables: Before the event day, On the event day and After the event day
+[ERROR] 27-05-2025 16:11:25 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 16:11:25 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[ERROR] 27-05-2025 16:11:36 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: //div[@id='project-table_info']
+[ERROR] 27-05-2025 16:11:36 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 27-05-2025 16:11:36 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 27-05-2025 16:28:18 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 16:28:20 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 16:28:22 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:28:23 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:28:23 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 16:28:23 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 16:28:25 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 16:28:25 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 16:28:25 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 16:28:26 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 16:28:26 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 16:28:28 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 16:28:28 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 16:28:28 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 16:28:28 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 16:28:28 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 16:28:28 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 16:28:29 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 16:28:38 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 16:28:38 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho buổi tiệc đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:28:38 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho buổi tiệc đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:28:38 [main] WriteLogs - ✅ The latest message contains 'đám cưới' as expected.
+[ERROR] 27-05-2025 16:28:38 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 16:28:39 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[ERROR] 27-05-2025 16:28:49 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: //div[@id='project-table_info']
+[ERROR] 27-05-2025 16:28:49 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 27-05-2025 16:28:49 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 27-05-2025 16:30:36 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 16:30:37 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 16:30:40 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:30:40 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:30:41 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 16:30:41 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 16:30:42 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 16:30:43 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 16:30:43 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 16:30:43 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 16:30:43 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 16:30:45 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 16:30:45 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 16:30:46 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 16:30:46 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 16:30:46 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 16:30:46 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 16:30:46 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 16:30:56 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 16:30:56 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:30:56 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:30:56 [main] WriteLogs - ✅ The latest message contains 'đám cưới' as expected.
+[ERROR] 27-05-2025 16:30:56 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 16:30:56 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[ERROR] 27-05-2025 16:31:07 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: //div[@id='project-table_info']
+[ERROR] 27-05-2025 16:31:07 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 27-05-2025 16:31:07 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 27-05-2025 16:38:59 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 16:39:01 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 16:39:03 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:39:04 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:39:05 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 16:39:05 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 16:39:06 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 16:39:07 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 16:39:07 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 16:39:07 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 16:39:07 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 16:39:09 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 16:39:09 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 16:39:10 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 16:39:10 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 16:39:10 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 16:39:10 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 16:39:10 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 16:39:19 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 16:39:19 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho buổi tiệc đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:39:19 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho buổi tiệc đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:39:19 [main] WriteLogs - ✅ The latest message contains 'đám cưới' as expected.
+[ERROR] 27-05-2025 16:39:29 [main] WriteLogs - Timeout waiting for the element to be visible. [[ChromeDriver: chrome on windows (b31b269f4d2e6df39ccadeed11f0a052)] -> xpath: //div[@class='box-question']/div[contains(@class, 'list-result')]//label[contains(@class, 'result-item')][1]]
+[ERROR] 27-05-2025 16:39:29 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 16:39:29 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[ERROR] 27-05-2025 16:39:40 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: //div[@id='project-table_info']
+[ERROR] 27-05-2025 16:39:40 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 27-05-2025 16:39:40 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 27-05-2025 16:50:08 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 16:50:09 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 16:50:12 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:50:13 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 16:50:13 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 16:50:13 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 16:50:13 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 16:50:15 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 16:50:15 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 16:50:15 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 16:50:15 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 16:50:17 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 16:50:17 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 16:50:18 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 16:50:18 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 16:50:18 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 16:50:18 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 16:50:18 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 16:50:28 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 16:50:28 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:50:28 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 16:50:28 [main] WriteLogs - ✅ The latest message contains 'đám cưới' as expected.
+[INFO] 27-05-2025 16:50:28 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (cd00206e21f6bfaec99c5c466d2c34d2)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 16:50:28 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (cd00206e21f6bfaec99c5c466d2c34d2)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 16:50:28 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (cd00206e21f6bfaec99c5c466d2c34d2)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 16:50:28 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (cd00206e21f6bfaec99c5c466d2c34d2)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 16:50:29 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (cd00206e21f6bfaec99c5c466d2c34d2)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 16:50:29 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (cd00206e21f6bfaec99c5c466d2c34d2)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 16:50:29 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (cd00206e21f6bfaec99c5c466d2c34d2)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 16:50:29 [main] WriteLogs - Click on element By.xpath: //button[@id='question-submit']
+[INFO] 27-05-2025 16:50:44 [main] WriteLogs - Clicked on Estimate button.
+[INFO] 27-05-2025 16:50:44 [main] WriteLogs - Task estimation screen is displayed with all tables: Before the event day, On the event day and After the event day
+[INFO] 27-05-2025 16:51:07 [main] WriteLogs - Click on element By.xpath: //a[@class='btn btn-start-event']
+[INFO] 27-05-2025 16:51:08 [main] WriteLogs - Clicked on Create button to create the event.
+[INFO] 27-05-2025 16:51:08 [main] WriteLogs - Test passed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - ==> TEXT: 0-0 / 0
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - Total Records: 0
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - ==> TEXT: 1-5 / 5
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - Total Records: 5
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - ==> TEXT: 1-5 / 5
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - Total Records: 5
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - The total number of records has increased by 1 as expected.
+[INFO] 27-05-2025 16:51:17 [main] WriteLogs - Test passed: confirmEventCreated
+[INFO] 27-05-2025 17:28:25 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 17:28:28 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 17:28:31 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:28:32 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:28:32 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 17:28:32 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 17:28:35 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 17:28:36 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 17:28:36 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 17:28:36 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 17:28:37 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 17:28:40 [main] WriteLogs - Test passed: selectVietnamese
+[ERROR] 27-05-2025 17:28:40 [main] WriteLogs - Test failed: openAddEventPopup
+[INFO] 27-05-2025 17:28:40 [main] WriteLogs - Screenshot taken: openAddEventPopup
+[ERROR] 27-05-2025 17:28:40 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 17:28:40 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[ERROR] 27-05-2025 17:28:40 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 27-05-2025 17:28:40 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 27-05-2025 17:34:27 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 17:34:28 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 17:34:31 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:34:31 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:34:32 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 17:34:32 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 17:34:32 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 17:34:34 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 17:34:34 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 17:34:34 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 17:34:34 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 17:34:36 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 17:34:37 [main] WriteLogs - Click on element By.xpath: //a[contains(@href, 'projects/all_projects')]
+[INFO] 27-05-2025 17:34:38 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 27-05-2025 17:34:38 [main] WriteLogs - ==> TEXT: 1-5 / 5
+[INFO] 27-05-2025 17:34:38 [main] WriteLogs - Total Records: 5
+[INFO] 27-05-2025 17:34:38 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 17:34:39 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 17:34:39 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 17:34:39 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 17:34:39 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 17:34:39 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 17:34:47 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 17:34:47 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 17:34:47 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 17:34:47 [main] WriteLogs - ✅ The latest message contains 'đám cưới' as expected.
+[INFO] 27-05-2025 17:34:48 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (ddafb0f978d0bac3d8c0a496d0dd3373)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:34:48 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (ddafb0f978d0bac3d8c0a496d0dd3373)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:34:48 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (ddafb0f978d0bac3d8c0a496d0dd3373)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:34:48 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (ddafb0f978d0bac3d8c0a496d0dd3373)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:34:48 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (ddafb0f978d0bac3d8c0a496d0dd3373)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:34:48 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (ddafb0f978d0bac3d8c0a496d0dd3373)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:34:48 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (ddafb0f978d0bac3d8c0a496d0dd3373)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:34:48 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (ddafb0f978d0bac3d8c0a496d0dd3373)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:34:49 [main] WriteLogs - Click on element By.xpath: //button[@id='question-submit']
+[INFO] 27-05-2025 17:35:03 [main] WriteLogs - Clicked on Estimate button.
+[INFO] 27-05-2025 17:35:03 [main] WriteLogs - Task estimation screen is displayed with all tables: Before the event day, On the event day and After the event day
+[INFO] 27-05-2025 17:35:23 [main] WriteLogs - Click on element By.xpath: //a[@class='btn btn-start-event']
+[INFO] 27-05-2025 17:35:24 [main] WriteLogs - Clicked on Create button to create the event.
+[INFO] 27-05-2025 17:35:24 [main] WriteLogs - Test passed: createWeddingPartyUsingSuggestions
+[ERROR] 27-05-2025 17:35:34 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: //div[@id='project-table_info']
+[ERROR] 27-05-2025 17:35:34 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 27-05-2025 17:35:35 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 27-05-2025 17:38:32 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 17:38:34 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 17:38:37 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:38:37 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:38:38 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 17:38:38 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 17:38:39 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 17:38:40 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 17:38:40 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 17:38:40 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 17:38:40 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 17:38:42 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 17:38:43 [main] WriteLogs - Click on element By.xpath: //a[contains(@href, 'projects/all_projects')]
+[INFO] 27-05-2025 17:38:44 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 27-05-2025 17:38:44 [main] WriteLogs - ==> TEXT: 1-6 / 6
+[INFO] 27-05-2025 17:38:44 [main] WriteLogs - Total Records: 6
+[INFO] 27-05-2025 17:38:44 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 17:38:44 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 17:38:44 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 17:38:45 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 17:38:45 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 17:38:45 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 17:38:56 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 17:38:56 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 17:38:56 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho sự kiện đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 17:38:56 [main] WriteLogs - ✅ The latest message contains 'đám cưới' as expected.
+[INFO] 27-05-2025 17:38:56 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (485a3413e3e2b5021ea59a6e2c67b47b)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:38:56 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (485a3413e3e2b5021ea59a6e2c67b47b)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:38:56 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (485a3413e3e2b5021ea59a6e2c67b47b)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:38:56 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (485a3413e3e2b5021ea59a6e2c67b47b)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:38:57 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (485a3413e3e2b5021ea59a6e2c67b47b)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:38:57 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (485a3413e3e2b5021ea59a6e2c67b47b)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:38:57 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (485a3413e3e2b5021ea59a6e2c67b47b)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:38:57 [main] WriteLogs - Click on element By.xpath: //button[@id='question-submit']
+[INFO] 27-05-2025 17:39:15 [main] WriteLogs - Clicked on Estimate button.
+[INFO] 27-05-2025 17:39:15 [main] WriteLogs - Task estimation screen is displayed with all tables: Before the event day, On the event day and After the event day
+[INFO] 27-05-2025 17:39:41 [main] WriteLogs - Click on element By.xpath: //a[@class='btn btn-start-event']
+[INFO] 27-05-2025 17:39:42 [main] WriteLogs - Clicked on Create button to create the event.
+[INFO] 27-05-2025 17:39:42 [main] WriteLogs - Test passed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 17:39:43 [main] WriteLogs - Click on element By.xpath: //a[contains(@href, 'projects/all_projects')]
+[INFO] 27-05-2025 17:39:44 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 27-05-2025 17:39:44 [main] WriteLogs - ==> TEXT: 1-7 / 7
+[INFO] 27-05-2025 17:39:44 [main] WriteLogs - Total Records: 7
+[INFO] 27-05-2025 17:39:44 [main] WriteLogs - The total number of records has increased by 1 as expected.
+[INFO] 27-05-2025 17:39:44 [main] WriteLogs - Test passed: confirmEventCreated
+[INFO] 27-05-2025 17:46:10 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 17:46:12 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 17:46:14 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:46:15 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:46:16 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 17:46:16 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 17:46:17 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 17:46:18 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 17:46:18 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 17:46:18 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 17:46:18 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 17:46:20 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 17:46:21 [main] WriteLogs - Click on element By.xpath: //a[contains(@href, 'projects/all_projects')]
+[INFO] 27-05-2025 17:46:21 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 27-05-2025 17:46:22 [main] WriteLogs - ==> TEXT: 1-7 / 7
+[INFO] 27-05-2025 17:46:22 [main] WriteLogs - Total Records: 7
+[INFO] 27-05-2025 17:46:22 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 17:46:22 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 17:46:22 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 17:46:22 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 17:46:22 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 17:46:23 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[INFO] 27-05-2025 17:46:33 [main] WriteLogs - Get text of element By.xpath: (//div[@id='box-instruction'])[last()]
+[INFO] 27-05-2025 17:46:33 [main] WriteLogs - ==> TEXT: Được rồi, hãy cùng lên kế hoạch cho buổi tiệc đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 17:46:33 [main] WriteLogs - 📥 Latest message content: Được rồi, hãy cùng lên kế hoạch cho buổi tiệc đám cưới. Vui lòng chọn một lựa chọn cho mỗi câu hỏi bên dưới để cung cấp thêm thông tin.
+[INFO] 27-05-2025 17:46:33 [main] WriteLogs - ✅ The latest message contains 'đám cưới' as expected.
+[INFO] 27-05-2025 17:46:33 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (262a2be40626c340ed72453464290c8a)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:46:34 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (262a2be40626c340ed72453464290c8a)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:46:34 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (262a2be40626c340ed72453464290c8a)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:46:34 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (262a2be40626c340ed72453464290c8a)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:46:34 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (262a2be40626c340ed72453464290c8a)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:46:34 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (262a2be40626c340ed72453464290c8a)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:46:34 [main] WriteLogs - Click on element [[[[ChromeDriver: chrome on windows (262a2be40626c340ed72453464290c8a)] -> xpath: //div[@class='box-question']]] -> xpath: .//label[contains(@class, 'result-item')]]
+[INFO] 27-05-2025 17:46:34 [main] WriteLogs - Click on element By.xpath: //button[@id='question-submit']
+[INFO] 27-05-2025 17:46:54 [main] WriteLogs - Clicked on Estimate button.
+[INFO] 27-05-2025 17:46:54 [main] WriteLogs - Task estimation screen is displayed with all tables: Before the event day, On the event day and After the event day
+[ERROR] 27-05-2025 17:47:54 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 17:47:54 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 17:47:55 [main] WriteLogs - Total Records: 7
+[ERROR] 27-05-2025 17:48:55 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 27-05-2025 17:48:55 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 27-05-2025 17:49:38 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 27-05-2025 17:49:40 [main] WriteLogs - Launching browser...
+[INFO] 27-05-2025 17:49:42 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:49:43 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 27-05-2025 17:49:43 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 27-05-2025 17:49:43 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 27-05-2025 17:49:44 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 27-05-2025 17:49:45 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 27-05-2025 17:49:45 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 27-05-2025 17:49:46 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 27-05-2025 17:49:46 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 27-05-2025 17:49:48 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 27-05-2025 17:49:49 [main] WriteLogs - Click on element By.xpath: //a[contains(@href, 'projects/all_projects')]
+[INFO] 27-05-2025 17:49:50 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 27-05-2025 17:49:50 [main] WriteLogs - ==> TEXT: 1-7 / 7
+[INFO] 27-05-2025 17:49:50 [main] WriteLogs - Total Records: 7
+[INFO] 27-05-2025 17:49:50 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 27-05-2025 17:49:51 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 27-05-2025 17:49:51 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 27-05-2025 17:49:51 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 27-05-2025 17:49:51 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 27-05-2025 17:49:51 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[ERROR] 27-05-2025 17:50:22 [main] WriteLogs - ⏳ Timeout: Page did not fully load in time.
+[ERROR] 27-05-2025 17:50:52 [main] WriteLogs - ⏳ Timeout: Page did not fully load in time.
+[ERROR] 27-05-2025 17:51:22 [main] WriteLogs - ⏳ Timeout: Page did not fully load in time.
+[ERROR] 27-05-2025 17:51:32 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: (//div[@id='box-instruction'])[last()]
+[ERROR] 27-05-2025 17:51:32 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 17:51:33 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[INFO] 27-05-2025 17:51:33 [main] WriteLogs - Total Records: 7
+[ERROR] 27-05-2025 17:52:03 [main] WriteLogs - ⏳ Timeout: Page did not fully load in time.
+[INFO] 30-06-2025 12:00:51 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 30-06-2025 12:00:56 [main] WriteLogs - Launching browser...
+[INFO] 30-06-2025 12:00:58 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 30-06-2025 12:00:59 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 30-06-2025 12:00:59 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 30-06-2025 12:00:59 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 30-06-2025 12:00:59 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 30-06-2025 12:01:01 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 30-06-2025 12:01:01 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 30-06-2025 12:01:01 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 30-06-2025 12:01:02 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 30-06-2025 12:01:03 [main] WriteLogs - Test passed: selectVietnamese
+[ERROR] 30-06-2025 12:01:13 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: //a[contains(@href, 'projects/all_projects')]
+[ERROR] 30-06-2025 12:01:13 [main] WriteLogs - Test failed: openAddEventPopup
+[INFO] 30-06-2025 12:01:14 [main] WriteLogs - Screenshot taken: openAddEventPopup
+[ERROR] 30-06-2025 12:01:14 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 30-06-2025 12:01:14 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[ERROR] 30-06-2025 12:01:14 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 30-06-2025 12:01:14 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 30-06-2025 12:01:47 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 30-06-2025 12:01:49 [main] WriteLogs - Launching browser...
+[INFO] 30-06-2025 12:01:51 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 30-06-2025 12:01:52 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 30-06-2025 12:01:52 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 30-06-2025 12:01:52 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 30-06-2025 12:01:52 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 30-06-2025 12:01:54 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 30-06-2025 12:01:54 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 30-06-2025 12:01:55 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 30-06-2025 12:01:55 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 30-06-2025 12:01:57 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 30-06-2025 12:01:58 [main] WriteLogs - Click on element By.xpath: //a[contains(@href, 'projects/all_projects')]
+[INFO] 30-06-2025 12:01:58 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 30-06-2025 12:01:59 [main] WriteLogs - ==> TEXT: 1-8 / 8
+[INFO] 30-06-2025 12:01:59 [main] WriteLogs - Total Records: 8
+[INFO] 30-06-2025 12:01:59 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 30-06-2025 12:01:59 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 30-06-2025 12:01:59 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 30-06-2025 12:01:59 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 30-06-2025 12:01:59 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 30-06-2025 12:02:00 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[ERROR] 30-06-2025 12:02:11 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: (//div[@id='box-instruction'])[last()]
+[ERROR] 30-06-2025 12:02:11 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 30-06-2025 12:02:11 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[INFO] 30-06-2025 12:02:11 [main] WriteLogs - Total Records: 8
+[ERROR] 30-06-2025 12:02:12 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 30-06-2025 12:02:12 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 30-06-2025 12:08:40 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 30-06-2025 12:08:42 [main] WriteLogs - Launching browser...
+[INFO] 30-06-2025 12:08:44 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 30-06-2025 12:08:45 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 30-06-2025 12:08:45 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 30-06-2025 12:08:46 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 30-06-2025 12:08:47 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 30-06-2025 12:08:48 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 30-06-2025 12:08:48 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 30-06-2025 12:08:48 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 30-06-2025 12:08:48 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 30-06-2025 12:08:50 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 30-06-2025 12:08:51 [main] WriteLogs - Click on element By.xpath: //a[contains(@href, 'projects/all_projects')]
+[INFO] 30-06-2025 12:08:52 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 30-06-2025 12:08:52 [main] WriteLogs - ==> TEXT: 1-8 / 8
+[INFO] 30-06-2025 12:08:52 [main] WriteLogs - Total Records: 8
+[INFO] 30-06-2025 12:08:52 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Thêm sự kiện']
+[INFO] 30-06-2025 12:08:52 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 30-06-2025 12:08:52 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 30-06-2025 12:08:53 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'Đám cưới')]
+[INFO] 30-06-2025 12:08:53 [main] WriteLogs - The text entered in the text area is correct: Đám cưới
+[INFO] 30-06-2025 12:08:53 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[ERROR] 30-06-2025 12:09:04 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: (//div[@id='box-instruction'])[last()]
+[ERROR] 30-06-2025 12:09:04 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 30-06-2025 12:09:04 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[INFO] 30-06-2025 12:09:04 [main] WriteLogs - Total Records: 8
+[ERROR] 30-06-2025 12:09:05 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 30-06-2025 12:09:06 [main] WriteLogs - Screenshot taken: confirmEventCreated
+[INFO] 01-07-2025 09:21:37 [main] WriteLogs - Screenshot path: PlanZTestEvidence/Screenshots
+[INFO] 01-07-2025 09:21:40 [main] WriteLogs - Launching browser...
+[INFO] 01-07-2025 09:21:43 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 01-07-2025 09:21:44 [main] WriteLogs - Open URL: http://dev.planz.ai:8010/plans/sign_in
+[INFO] 01-07-2025 09:21:44 [main] WriteLogs - Set text laura@vitex.asia on element By.xpath: //input[@type='email']
+[INFO] 01-07-2025 09:21:44 [main] WriteLogs - Set text Linh***1@gmail.com on element By.xpath: //input[@type='password']
+[INFO] 01-07-2025 09:21:44 [main] WriteLogs - Click on element By.xpath: //button[@type='submit']
+[INFO] 01-07-2025 09:21:46 [main] WriteLogs - Assert NOT contains: Does 'http://dev.planz.ai:8010/workspace/30/projects/all_projects' not contain '/plans/sign_in'?
+[INFO] 01-07-2025 09:21:46 [main] WriteLogs - Test passed: loginSuccess
+[INFO] 01-07-2025 09:21:47 [main] WriteLogs - Click on element By.xpath: //a[@id='personal-language-icon']
+[INFO] 01-07-2025 09:21:47 [main] WriteLogs - Click on element By.xpath: //a[contains(@data-action-url,'save_personal_language/Vietnamese')]
+[INFO] 01-07-2025 09:21:48 [main] WriteLogs - Test passed: selectVietnamese
+[INFO] 01-07-2025 09:21:50 [main] WriteLogs - Click on element By.xpath: //a[contains(@href, 'projects/all_projects')]
+[INFO] 01-07-2025 09:21:50 [main] WriteLogs - Get text of element By.xpath: //div[@id='project-table_info']
+[INFO] 01-07-2025 09:21:50 [main] WriteLogs - ==> TEXT: 1-8 / 8
+[INFO] 01-07-2025 09:21:50 [main] WriteLogs - Total Records: 8
+[INFO] 01-07-2025 09:21:50 [main] WriteLogs - Click on element By.xpath: //div/a[@title='Th�m s? ki?n']
+[INFO] 01-07-2025 09:21:51 [main] WriteLogs - Add Event Popup is displayed
+[INFO] 01-07-2025 09:21:51 [main] WriteLogs - Test passed: openAddEventPopup
+[INFO] 01-07-2025 09:21:51 [main] WriteLogs - Click on element By.xpath: //label[contains(text(),'?�m c??i')]
+[INFO] 01-07-2025 09:21:51 [main] WriteLogs - The text entered in the text area is correct: ?�m c??i
+[INFO] 01-07-2025 09:21:51 [main] WriteLogs - Click on element By.xpath: //button[@id='try-me']
+[ERROR] 01-07-2025 09:22:02 [main] WriteLogs - Timeout waiting for the element to be visible. By.xpath: (//div[@id='box-instruction'])[last()]
+[ERROR] 01-07-2025 09:22:02 [main] WriteLogs - Test failed: createWeddingPartyUsingSuggestions
+[INFO] 01-07-2025 09:22:03 [main] WriteLogs - Screenshot taken: createWeddingPartyUsingSuggestions
+[INFO] 01-07-2025 09:22:03 [main] WriteLogs - Total Records: 8
+[ERROR] 01-07-2025 09:22:04 [main] WriteLogs - Test failed: confirmEventCreated
+[INFO] 01-07-2025 09:22:04 [main] WriteLogs - Screenshot taken: confirmEventCreated

@@ -8,7 +8,6 @@ out/
 allure-results/
 ExportData/
 ExtentReports/
-logs/
 test-output/
 reports/
 *.png
